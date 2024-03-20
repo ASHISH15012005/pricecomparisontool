@@ -1,4 +1,4 @@
-![image](https://github.com/ASHISH15012005/pricecomparisontool/assets/126192036/cb013130-4dcd-43f5-9234-468a32b7f869)This Python code implements a simple price comparison tool with a graphical user interface (GUI) using Tkinter. Here's a breakdown of its functionality:
+This Python code implements a simple price comparison tool with a graphical user interface (GUI) using Tkinter. Here's a breakdown of its functionality:
 
 # Imports:
 1.**tkinter**: Python's standard GUI (Graphical User Interface) library. </br>
